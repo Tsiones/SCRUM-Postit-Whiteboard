@@ -1,0 +1,41 @@
+
+.postit-container{
+  width: 300px;
+}
+.panel{
+  height: 200px;
+}
+.panel-title-text{
+  margin-top: 5px;
+  font-size: 22px;
+}
+.panel-heading{
+  background-color: red;
+}
+#kryss{
+  font-size: 17px;
+  float: right;
+}
+.inline-title{
+  display: inline-block;
+}
+
+.text-area-title{
+  border: none;
+  resize: none;
+}
+.post-it-text-area{
+  resize: none;
+  border: none;
+}
+.popup-container {
+  position: absolute;
+  top: 0px;
+  width: 300px;
+  height: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px black solid;
+  background-color: rgb(196, 195, 195);;
+
+}
